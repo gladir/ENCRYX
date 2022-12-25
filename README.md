@@ -1,5 +1,5 @@
 # ENCRYX
-Liste de commande sur l'encryption et la décryption écrit en Pascal.
+Liste de commandes sur l'encryption et la décryption écrit en Pascal.
 
 <h2>Liste des fichiers</h2>
 
