@@ -14,6 +14,22 @@ Voici la liste des différents fichiers proposés dans ENCRYX :
 		<td><b>CESAR.PAS</b></td>
 		<td>Cette commande permet d'encrypter ou décrypter une chaîne de caractères selon la méthode du chiffre de César.</td>
 	</tr>
+	<tr>
+		<td><b>MD5.PAS</b></td>
+		<td>Cette commande permet d'appliquer un algorithme MD5 sur la chaine de caractères spécifiés.</td>
+	</tr>
+	<tr>
+		<td><b>ROT13.PAS</b></td>
+		<td>Cette commande permet d'effectuer une rotation de 13 lettres de l'alphabet latin.</td>
+	</tr>
+	<tr>
+		<td><b>UUDECODE.PAS</b></td>
+		<td>Cette commande permet d'effectuer le décodage d'un fichier binaire de format UUE.</td>
+	</tr>
+	<tr>
+		<td><b>UUENCODE.PAS</b></td>
+		<td>Cette commande permet d'effectuer un encodage d'un fichier binaire.</td>
+	</tr>
 </table>
 
 <h2>Compilation</h2>
