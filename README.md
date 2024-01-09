@@ -23,6 +23,14 @@ Voici la liste des différents fichiers proposés dans ENCRYX :
 		<td>Cette commande permet d'effectuer une rotation de 13 lettres de l'alphabet latin.</td>
 	</tr>
 	<tr>
+			<td><b>ROT13C5D.PAS</b></td>
+			<td>Cette commande permet d'effectuer une rotation de 13 lettres de l'alphabet latin et une rotation de 5 chiffres sur les chiffres.</td>
+		</tr>
+    <tr>
+			<td><b>ROT13PAS.PAS</b></td>
+			<td>Cette commande permet d'obscurcir le code Pascal en le transformant avec l'algorithme rot13 sur les identificateurs du programme.</td>
+		</tr>
+	<tr>
 		<td><b>UUDECODE.PAS</b></td>
 		<td>Cette commande permet d'effectuer le décodage d'un fichier binaire de format UUE.</td>
 	</tr>
